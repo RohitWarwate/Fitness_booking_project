@@ -1,4 +1,3 @@
-# Fitness_booking_project
 # Fitness Studio Booking API
 
 Simple booking API built with FastAPI and SQLite for a fictional fitness studio.
